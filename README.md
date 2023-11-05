@@ -1,2 +1,2 @@
 # devops-rep1
-Repo for devops practice updated recently!
+Repo for devops practice updated recently for practice@
