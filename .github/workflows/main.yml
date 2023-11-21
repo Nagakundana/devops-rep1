@@ -37,6 +37,7 @@ jobs:
           echo "Server IP is : `hostname -I`"
   test:
       runs-on: webserver
+      needs : [ build ] 
       steps:
         - name: first test
           run: echo "hello test"
